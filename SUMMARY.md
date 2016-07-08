@@ -1,4 +1,4 @@
 # Summary
 
-* Arrays
+* [Arrays](arrays.md)
 
